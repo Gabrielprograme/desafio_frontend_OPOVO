@@ -1,0 +1,38 @@
+# DESAFIO PRÁTICO FRONT-END O POVO
+
+Este repositório contém a minha resolução para o teste prático do processo seletivo de **Desafio Front-end** do **Grupo de Comunicação O POVO**. 
+O desafio consistiu em transformar um layout do Adobe XD em uma página web moderna, funcional e totalmente responsiva.
+
+---
+
+## 🚀 O Desafio
+O objetivo principal foi desenvolver uma landing page de especificações do filme da *Barbie*, focando na fidelidade ao design proposto e na aplicação das melhores práticas de desenvolvimento web.
+
+### 📋 Requisitos do Projeto:
+* Estrutura 100% responsiva (Mobile, Tablet e Desktop).
+* Uso de HTML5 semântico.
+* Estilização avançada com CSS3.
+* Implementação de interatividade com JavaScript.
+* Foco em performance e baixo tempo de renderização.
+* Otimização para SEO.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+Para este projeto, utilizei as seguintes ferramentas:
+
+* **HTML5:** Estruturação semântica para acessibilidade e SEO.
+* **CSS3:** Layouts com Flexbox e Grid, além de Media Queries para responsividade.
+* **JavaScript:** Para manipulação de elementos e comportamentos dinâmicos.
+* **Git & GitHub:** Controle de versão e organização do fluxo de trabalho.
+
+---
+
+## 🎨 Layout
+O design seguido foi disponibilizado através do Adobe XD, abrangendo as versões:
+1. Desktop 🖥️
+2. Tablet 📱
+3. Mobile 📲
+
+> [Link do Layout Original](https://xd.adobe.com/view/6ccf82f0-5045-4bc3-a4ce-b79eb393e73f-399c/grid)
