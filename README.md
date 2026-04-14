@@ -21,7 +21,7 @@ O objetivo principal foi desenvolver uma landing page de especificações do fil
 ## 🛠️ Tecnologias Utilizadas
 
 Para este projeto, utilizei as seguintes ferramentas:
-
+* **REACT** - Framework para englobar HTML5, CSS3, JAVASCRIPT para uma melhor experiência
 * **HTML5:** Estruturação semântica para acessibilidade e SEO.
 * **CSS3:** Layouts com Flexbox e Grid, além de Media Queries para responsividade.
 * **JavaScript:** Para manipulação de elementos e comportamentos dinâmicos.
