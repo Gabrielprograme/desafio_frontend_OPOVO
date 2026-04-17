@@ -20,11 +20,17 @@ O objetivo principal foi desenvolver uma landing page de especificações do fil
 ## 🛠️ Tecnologias Utilizadas
 
 Para este projeto, utilizei as seguintes ferramentas:
-
 * **HTML5:** Estruturação semântica para acessibilidade e SEO.
 * **CSS3:** Layouts com Flexbox e Grid, além de Media Queries para responsividade.
 * **JavaScript:** Para manipulação de elementos e comportamentos dinâmicos.
 * **Git & GitHub:** Controle de versão e organização do fluxo de trabalho.
+
+
+## OBS
+* **REACT:** Frame Utilizada para englobar todas as outras Ferramentas exigidas no desafio
+* **owl.carousel:** Essa biblioteca foi substituida pela **Swiper** com compatibilidade e melhor performace com o React.
+* **Swiper:** Essa biblioteca de carrossel é moderna e tem uma melhor performace com o **React**
+
 
 ---
 
